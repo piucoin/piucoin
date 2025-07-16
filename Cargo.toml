@@ -1,0 +1,22 @@
+[package]
+name = "piucoin"
+version = "0.0.1"
+edition = "2024"
+description = "Yet another blockchain system for the virtual world. Lightweight and scalable, powered by Rust."
+license = "MIT"
+authors = ["Billgo <hi@billgo.me>"]
+repository = "https://github.com/piucoin/piucoin"
+homepage = "https://github.com/piucoin/piucoin"
+documentation = "https://docs.rs/piucoin"
+readme = "README.md"
+keywords = ["blockchain", "dapp", "async", "macro", "stream", "consensus", "composition"]
+categories = [
+    "asynchronous",
+    "concurrency",
+    "development-tools",
+    "cryptography",
+    "rust-patterns",
+]
+publish = true
+
+[dependencies]
