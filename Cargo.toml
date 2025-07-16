@@ -12,8 +12,7 @@ readme = "README.md"
 keywords = ["blockchain", "dapp"]
 categories = [
     "cryptography",
-    "concurrency",
-    "distributed-systems",
+    "concurrency"
 ]
 publish = true
 
