@@ -9,13 +9,11 @@ repository = "https://github.com/piucoin/piucoin"
 homepage = "https://github.com/piucoin/piucoin"
 documentation = "https://docs.rs/piucoin"
 readme = "README.md"
-keywords = ["blockchain", "dapp", "async", "macro", "stream", "consensus", "composition"]
+keywords = ["blockchain", "dapp"]
 categories = [
-    "asynchronous",
-    "concurrency",
-    "development-tools",
     "cryptography",
-    "rust-patterns",
+    "concurrency",
+    "distributed-systems",
 ]
 publish = true
 
